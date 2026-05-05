@@ -82,7 +82,7 @@
     "hookable": "^5.5.3",
     "http-proxy": "^1.18.1",
     "is-primitive": "^3.0.1",
-    "jiti": "^1.18.2",
+    "jiti": "^2.7.0",
     "klona": "^2.0.6",
     "knitwork": "^1.0.0",
     "listhen": "^1.0.4",
