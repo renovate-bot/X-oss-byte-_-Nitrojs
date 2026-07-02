@@ -232,8 +232,8 @@ importers:
         specifier: ^7.1.1
         version: 7.1.1
       expect-type:
-        specifier: ^0.15.0
-        version: 0.15.0
+        specifier: ^1.4.0
+        version: 1.4.0
       miniflare:
         specifier: ^2.13.0
         version: 2.13.0
@@ -2840,8 +2840,9 @@ packages:
     engines: {node: '>=6'}
     dev: true
 
-  /expect-type@0.15.0:
-    resolution: {integrity: sha512-yWnriYB4e8G54M5/fAFj7rCIBiKs1HAACaY13kCz6Ku0dezjS9aMcfcdVK2X8Tv2tEV1BPz/wKfQ7WA4S/d8aA==}
+  /expect-type@1.4.0:
+    resolution: {integrity: sha512-KfYbmpRm0VbLjEvVa9yGwCi9GI34xvi7A/HXYWQO65CSD2u3MczUJSuwXKFIxlGsgBQizV9q5J9NHj4VG0n+pA==}
+    engines: {node: '>=12.0.0'}
     dev: true
 
   /fast-deep-equal@3.1.3:
