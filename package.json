@@ -91,7 +91,7 @@
     "mri": "^1.2.0",
     "node-fetch-native": "^1.1.0",
     "ofetch": "^1.0.1",
-    "ohash": "^1.1.1",
+    "ohash": "^2.0.12",
     "openapi-typescript": "^6.2.1",
     "pathe": "^1.1.0",
     "perfect-debounce": "^0.1.3",
