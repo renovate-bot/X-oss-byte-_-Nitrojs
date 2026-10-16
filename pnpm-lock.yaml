@@ -117,8 +117,8 @@ importers:
         specifier: ^1.0.4
         version: 1.0.4
       mime:
-        specifier: ^3.0.0
-        version: 3.0.0
+        specifier: ^4.1.1
+        version: 4.1.1
       mlly:
         specifier: ^1.2.0
         version: 1.2.0
@@ -3835,6 +3835,12 @@ packages:
   /mime@3.0.0:
     resolution: {integrity: sha512-jSCU7/VB1loIWBZe14aEYHU/+1UMEHoaO7qxCOVJOw9GgH72VAWppxNcjU+x9a2k3GSIBXNKxXQFqRvvZ7vr3A==}
     engines: {node: '>=10.0.0'}
+    hasBin: true
+    dev: false
+
+  /mime@4.1.1:
+    resolution: {integrity: sha512-YAApRsTpM2+gnUFHhRNGfkX8NK0V5xj1nyQLufGlwEI+eX4xRsTcel2IXDuMEGSGjBvzykNW4VuoEACgwYe7BQ==}
+    engines: {node: '>=16'}
     hasBin: true
     dev: false
 
